@@ -2,6 +2,7 @@
 
 # Face Recognition part II:
 [![face-recognition-part2.png](https://i.postimg.cc/1XyM9GXC/face-recognition-part2.png)](https://postimg.cc/qhZ2wC8y)
+Youtube Tutorial:  https://www.youtube.com/watch?v=9niSMx2vxB4
  Real time face recognition program
  Used libraries: Numpy, Tensorflow, sklearn, cv2, keras-facenet, pickle
  Youtube video
